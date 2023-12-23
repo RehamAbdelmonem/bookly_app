@@ -35,4 +35,3 @@ class BookDetailsViewBody extends StatelessWidget {
     );
   }
 }
-

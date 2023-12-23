@@ -23,7 +23,6 @@ class _SplashViewBodyState extends State<SplashViewBody>
     navigateToHome();
   }
 
-
   @override
   void dispose() {
     super.dispose();
