@@ -41,7 +41,7 @@ class ServerFailure extends Failure {
         }
         return ServerFailure('Unexpected Error, please try again!');
         default:
-        retu
+        return ServerFailure('Opps There was an Error, please try again');
     }
   }
 
