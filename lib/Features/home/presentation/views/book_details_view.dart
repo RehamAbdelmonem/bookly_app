@@ -3,7 +3,7 @@ import 'package:bookly_app/Features/home/presentation/views/widgets/book_details
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../data/models/book_model/book_model.dart';
+import '../../../../core/models/book_model/book_model.dart';
 
 class BookDetailsView extends StatefulWidget {
   const BookDetailsView({super.key, required this.bookModel});
